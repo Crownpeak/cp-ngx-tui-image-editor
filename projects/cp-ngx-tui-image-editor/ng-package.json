@@ -3,5 +3,6 @@
   "dest": "../../dist/cp-ngx-tui-image-editor",
   "lib": {
     "entryFile": "src/public-api.ts"
-  }
+  },
+  "whitelistedNonPeerDependencies": ["tui-image-editor"]
 }
