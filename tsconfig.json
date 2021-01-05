@@ -14,7 +14,13 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "cp-ngx-tui-image-editor": [
+        "dist/cp-ngx-tui-image-editor/cp-ngx-tui-image-editor",
+        "dist/cp-ngx-tui-image-editor"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
