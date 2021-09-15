@@ -1,12 +1,12 @@
 {
   "name": "cp-ngx-tui-image-editor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "peerDependencies": {
-    "@angular/common": "^9.1.13",
-    "@angular/core": "^9.1.13"
+    "@angular/common": "^10.2.5",
+    "@angular/core": "^10.2.5"
   },
   "dependencies": {
-    "tslib": "^1.10.0",
+    "tslib": "^2.0.0",
     "tui-image-editor": "^3.5.1"
   }
 }
